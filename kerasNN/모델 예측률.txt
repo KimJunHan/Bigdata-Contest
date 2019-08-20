@@ -1,0 +1,15 @@
+﻿https://www.google.com/search?ei=vIwxXZTiIoLg-Ab0mbDABg&q=regression+model+prediction+accuracy&oq=regression+model+accu&gs_l=psy-ab.3.4.0l3j0i22i30l7.3935.19817..25014...16.0..1.353.4451.1j35j0j1......0....1..gws-wiz.....0..0i71j0i67j0i10j0i70i249._CuseypZdF8
+MRE 
+
+
+
+When measuring the accuracy of a prediction the relative the magnitude of relative error
+(MRE) is often used, it is defined as the absolute value of the ratio of the error to the actual
+observed value:│(actual – predicted)/actual│or │(y – ŷ)/y│. When multiplied by 100% this
+gives the absolute percentage error (APE). This measure is generally only used when the
+quantity of interest is strictly positive, and we shall make this assumption throughout.
+In assessing the accuracy of multiple predictions a way of aggregating is required. If we
+adopt the arithmetic mean then we shall be using the mean absolute percentage error, MAPE.
+In some disciplines this is known as the ‘mean magnitude of relative error’ (MMRE).
+According to a number of surveys reviewed by Gneiting (2011), MAPE is the most
+commonly used measure for assessing forecasts in organisations
